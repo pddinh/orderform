@@ -1,0 +1,10 @@
+.item{display:block;;overflow:hidden;padding:0.25em;clear:left;}
+.item label{display:block;padding:0em;clear:both}
+.Field50{width: 4em;text-align:right;}
+.Field100{width: 40%;}
+.Field150{width: 50%;}
+.Field200{width: 55%;}
+.Field300{width: 70%;}
+textarea {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;width: 100%;}
+fieldset{background:#EEE}
+legend{font-size:150%;color: white;text-shadow: 2px 2px 4px #000;text-transform:uppercase;padding:0.5em}
